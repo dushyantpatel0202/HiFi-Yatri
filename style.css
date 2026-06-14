@@ -4387,6 +4387,49 @@ input, .station-input-wrapper {
     filter: none !important;
 }
 
+.modal-lang {
+    position: fixed;
+    top: 1.2rem;
+    right: 6.8rem;
+    z-index: 1100;
+    background: rgba(15, 21, 35, 0.9) !important;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    color: #f8f5ee !important;
+    width: auto !important;
+    height: 44px !important;
+    border-radius: 22px !important;
+    font-size: 0.82rem !important;
+    cursor: pointer !important;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s, border-color 0.2s, color 0.2s !important;
+    padding: 0 14px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.4px;
+    font-family: 'DM Sans', sans-serif;
+    white-space: nowrap;
+}
+
+.modal-lang.visible {
+    display: flex;
+}
+
+.modal-lang:hover {
+    background: rgba(245, 158, 11, 0.2) !important;
+    border-color: var(--yatra-orange, #f59e0b) !important;
+    color: var(--yatra-orange, #f59e0b) !important;
+    transform: none !important;
+    filter: none !important;
+}
+
+.modal-lang.hi-active {
+    background: rgba(245, 158, 11, 0.18) !important;
+    border-color: var(--yatra-orange, #f59e0b) !important;
+    color: var(--yatra-orange, #f59e0b) !important;
+}
+
 .share-toast {
     position: fixed;
     top: 4.6rem;
@@ -4957,5 +5000,6 @@ input, .station-input-wrapper {
     .dt section { padding: 2.5rem 1rem; }
     .modal-close { top: 0.8rem; right: 0.8rem; }
     .modal-share { top: 0.8rem; right: 3.6rem; }
+    .modal-lang { top: 0.8rem; right: 6.4rem; font-size: 0.75rem !important; padding: 0 10px !important; }
     .dt #d-hero { padding: 2rem 1rem 3rem; }
 }

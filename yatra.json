@@ -1375,6 +1375,462 @@
       ],
       "provider_name": "Sample Tour and Travel",
       "provider_code": "102"
-    }
+    },
+    {
+  "id": 9,
+  "dates": "On Request",
+  "title": "Manali Kasol Rohtang / Sissu Atal Tunnel",
+  "location": "Raipur → Manali → Kasol → Raipur",
+  "category": "hill_station",
+  "category_display": "Hill Station",
+  "duration": "8 Days / 7 Nights",
+  "price": 0,
+  "discount": 0,
+  "currency": "₹",
+  "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=500&h=200&fit=crop",
+  "highlights": [
+    "Rohtang Pass / Sissu",
+    "Atal Tunnel",
+    "Kasol Camps",
+    "Kullu Rafting"
+  ],
+  "partner_url": "#",
+  "partner_name": "",
+  "whatsapp_number": "",
+  "hero_title": "Manali · Kasol · Rohtang",
+  "hero_sub": "8 Days of Mountain Magic",
+  "hero_meta": "8 Days · 7 Nights · Raipur Departure · 3rd AC Train",
+  "hero_img": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=1400&fit=crop",
+  "hero_tags": [
+    "Snow Adventure",
+    "Rohtang Pass",
+    "Kasol Camps",
+    "DJ & Bonfire"
+  ],
+  "stars": 4.8,
+  "vibe": {
+    "label": "THE VIBE",
+    "title": "Snow Peaks &",
+    "title_em": "Mountain Souls",
+    "desc": "From the snowy heights of Rohtang Pass to the bohemian camps of Kasol, this 8-day journey covers the best of Himachal. River rafting, DJ nights, bonfire dinners and panoramic mountain views – every day is an adventure.",
+    "items": [
+      { "icon": "🏔️", "text": "Rohtang Snow Fun" },
+      { "icon": "🏕️", "text": "Kasol Camp Nights" },
+      { "icon": "🎿", "text": "Skiing & Snow Dress" },
+      { "icon": "🔥", "text": "DJ Night & Bonfire" }
+    ]
+  },
+  "itin": {
+    "label": "THE JOURNEY",
+    "title": "8 Day Itinerary",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Raipur to Delhi",
+        "desc": "Depart from Raipur to Delhi via 3rd AC coach train with overnight travel."
+      },
+      {
+        "day": "Day 2",
+        "title": "Delhi to Manali",
+        "desc": "Reach Delhi in morning/evening. If arriving in the morning, stay for a few hours in Delhi at own cost. Depart at 7 PM from Delhi to Manali via overnight Volvo bus."
+      },
+      {
+        "day": "Day 3",
+        "title": "Manali Sightseeing",
+        "desc": "Reach Manali by afternoon. Check in to the hotel, freshen up and have lunch. Visit Vashisht Temple, Jogni Waterfall and Mall Road. Evening shopping at Mall Road. Enjoy DJ night and bonfire dinner with overnight stay in the hotel."
+      },
+      {
+        "day": "Day 4",
+        "title": "Rohtang Pass / Sissu & Atal Tunnel",
+        "desc": "Wake up in the morning, have breakfast and depart to Rohtang Pass/Sissu. Enjoy adventure activities like zipline, yak ride, bungee, skiing, tube and snow dress. Return back to Manali visiting Atal Tunnel. Enjoy DJ night and dinner with overnight stay in the hotel."
+      },
+      {
+        "day": "Day 5",
+        "title": "Kullu Rafting · Hadimba Temple · Kasol",
+        "desc": "Wake up early, have breakfast and check out from hotel. Visit Hadimba Temple, Van Vihar and Tibetan Monastery. Depart to Kullu, enjoy rafting, then head to Kasol and check into the camps. Enjoy DJ night, bonfire and dinner with overnight stay at camps."
+      },
+      {
+        "day": "Day 6",
+        "title": "Manikaran & Kasol Sightseeing to Delhi",
+        "desc": "Wake up, have breakfast and check out from the camps. Visit Manikaran Gurudwara, Shiv Temple Kasol, explore local market with Nature Park Kasol, Chalal Bridge, Parvati River and local cafes. Later depart to Delhi via overnight travel."
+      },
+      {
+        "day": "Day 7",
+        "title": "Delhi to Raipur",
+        "desc": "Reach Delhi in the morning and later depart to Raipur according to your train timings."
+      },
+      {
+        "day": "Day 8",
+        "title": "Reach Raipur",
+        "desc": "Reach Raipur in the morning/afternoon according to your train timings."
+      }
+    ]
+  },
+  "trans": {
+    "label": "HOW WE TRAVEL",
+    "title": "Train + Volvo Bus",
+    "desc": "Comfortable 3rd AC train from Raipur to Delhi, then a Volvo bus to Manali. Return the same way.",
+    "transport": [
+      { "icon": "🚂", "name": "3rd AC Train", "detail": "Raipur ↔ Delhi, overnight journey" },
+      { "icon": "🚌", "name": "Volvo Bus", "detail": "Delhi → Manali, departs 7 PM overnight" },
+      { "icon": "🚐", "name": "Local Tempo/SUV", "detail": "Sightseeing transfers within Manali & Kasol" }
+    ]
+  },
+  "pricing": {
+    "label": "PACKAGE COST",
+    "headline": "Contact for Pricing",
+    "amount": "Contact Us",
+    "per": "per person",
+    "pitch": "Affordable group package with accommodation, transport and guided sightseeing.",
+    "includes": [
+      "3rd AC train tickets (Raipur–Delhi–Raipur)",
+      "Volvo bus (Delhi–Manali–Delhi)",
+      "Hotel stay in Manali (2 nights)",
+      "Camp stay in Kasol (1 night)",
+      "Sightseeing transfers",
+      "DJ nights & bonfire dinners"
+    ]
+  },
+  "squad": {
+    "badge": "GROUP TRAVEL",
+    "title": "Group Adventure Awaits",
+    "desc": "Best for groups of friends and families. Solo travellers welcome to join a batch!",
+    "total": 30,
+    "in": 20,
+    "faces": [
+      "👩", "🧑", "👨", "👩", "🧑",
+      "👱", "👩", "🧑", "👨", "👩",
+      "🧑", "👨", "👱", "👩", "🧑",
+      "👨", "👩", "👱", "🧑", "👨"
+    ]
+  },
+  "cta": {
+    "text": "Book Your Spot",
+    "url": "#",
+    "sub": "Contact us to reserve your seat"
+  },
+  "footer": {
+    "tagline": "Where the mountains call and the snow answers",
+    "chips": [
+      "Hill Station",
+      "8 Days",
+      "Manali-Kasol",
+      "Raipur Departure"
+    ]
+  },
+  "departure_locations": [
+    { "name": "Raipur", "lat": 21.2514, "lng": 81.6296 },
+    { "name": "Delhi", "lat": 28.6139, "lng": 77.2090 },
+    { "name": "Manali", "lat": 32.2396, "lng": 77.1887 },
+    { "name": "Kasol", "lat": 32.0097, "lng": 77.3143 }
+  ],
+  "provider_name": "",
+  "provider_code": "103"
+},
+{
+  "id": 10,
+  "dates": "On Request",
+  "title": "Kashmir – Srinagar · Sonamarg · Gulmarg · Pahalgam",
+  "location": "Raipur → Kashmir → Raipur",
+  "category": "hill_station",
+  "category_display": "Hill Station",
+  "duration": "9 Days / 8 Nights",
+  "price": 21499,
+  "discount": 0,
+  "currency": "₹",
+  "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=500&h=200&fit=crop",
+  "highlights": [
+    "Dal Lake Shikara Ride",
+    "Gulmarg Gondola",
+    "Sonamarg Excursion",
+    "Pahalgam Valley"
+  ],
+  "partner_url": "#",
+  "partner_name": "",
+  "whatsapp_number": "",
+  "hero_title": "Kashmir",
+  "hero_sub": "Paradise on Earth",
+  "hero_meta": "9 Days · 8 Nights · Raipur to Raipur · From ₹21,499",
+  "hero_img": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=1400&fit=crop",
+  "hero_tags": [
+    "Houseboat Stay",
+    "Gulmarg Gondola",
+    "Shikara Ride",
+    "Snow & Valleys"
+  ],
+  "stars": 4.9,
+  "vibe": {
+    "label": "THE VIBE",
+    "title": "Heaven on Earth —",
+    "title_em": "Kashmir Awaits",
+    "desc": "Float on a houseboat on Dal Lake, ride the world's second-highest cable car in Gulmarg, wander through saffron fields of Pahalgam and breathe in the crisp mountain air of Sonamarg. Kashmir is not just a destination — it is an experience.",
+    "items": [
+      { "icon": "🛶", "text": "Dal Lake Shikara Ride" },
+      { "icon": "🚡", "text": "Gulmarg Gondola Phase 1" },
+      { "icon": "🏔️", "text": "Sonamarg – Meadow of Gold" },
+      { "icon": "🌸", "text": "Pahalgam Valley of Shepherds" }
+    ]
+  },
+  "itin": {
+    "label": "THE JOURNEY",
+    "title": "9 Day Kashmir Itinerary",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Raipur to Delhi",
+        "desc": "Depart from Raipur to Delhi via 3rd AC coach train with overnight travel."
+      },
+      {
+        "day": "Day 2",
+        "title": "Delhi to Jammu",
+        "desc": "Reach Delhi in morning/evening. Depart to Jammu by night. If arriving in the morning, manage stay for a few hours at your own cost as departure is in the evening."
+      },
+      {
+        "day": "Day 3",
+        "title": "Jammu to Srinagar",
+        "desc": "Welcome to Jammu — the northernmost part of India and winter capital of Jammu & Kashmir. On arrival, a representative/driver will take you to Srinagar. Check in at Srinagar hotel and enjoy overnight stay."
+      },
+      {
+        "day": "Day 4",
+        "title": "Sonamarg Excursion",
+        "desc": "Full day excursion to Sonamarg — the Meadow of Gold. Sonamarg is the last stop of Kashmir district before Ladakh, situated at 2743 m above sea level. Optionally enjoy a pony ride to Thajiwas Glaciers (own cost), visit Zero Point/Zojila Pass (own cost) and adventure activities like zipline. Return to Srinagar hotel in the evening for overnight stay."
+      },
+      {
+        "day": "Day 5",
+        "title": "Gulmarg Excursion",
+        "desc": "After breakfast, check out and head to Gulmarg — the Meadow of Flowers and one of the most beautiful hill stations in the world. Enjoy a Gondola Ride (Phase 1 – Kongdoori included). You may also visit Phase 2 Apharawat at your own cost and Mohinishwar Shivalaya Shiv Mandir. Enjoy the snow, photos and videos before descending. Overnight stay at Srinagar hotel."
+      },
+      {
+        "day": "Day 6",
+        "title": "Srinagar Sightseeing to Pahalgam",
+        "desc": "After breakfast, check out from hotel/houseboat and enjoy a city tour — visit Shankaracharya Temple on the highest hill of Srinagar, followed by the Mughal Gardens: Chashmashahi, Nishat & Shalimar, and Tulip Garden (open March–April). Later depart to Pahalgam visiting apple gardens on the way. Check into hotel, dinner and overnight stay."
+      },
+      {
+        "day": "Day 7",
+        "title": "Pahalgam Sightseeing to Jammu to Delhi",
+        "desc": "After breakfast, drive to Pahalgam — the Valley of Shepherds. Visit the saffron fields of Pampore, Awantipura Ruins (1100-year-old temple of Lord Vishnu built by King Awantivarman) and Martand Surya Temple. Arrive at Pahalgam and enjoy Lidder River. Optionally hire a union car (own cost) for Aru Valley, Betaab Valley, Chandanwari and Mamleshwar Temple. Evening return to Jammu, overnight travel. Reach Jammu and depart for Delhi."
+      },
+      {
+        "day": "Day 8",
+        "title": "Delhi to Raipur",
+        "desc": "Reach Delhi and depart for Raipur according to your train timings."
+      },
+      {
+        "day": "Day 9",
+        "title": "Reach Raipur",
+        "desc": "Arrive back in Raipur — home sweet home, with memories of paradise."
+      }
+    ]
+  },
+  "trans": {
+    "label": "HOW WE TRAVEL",
+    "title": "Train + Road Transfers",
+    "desc": "3rd AC train from Raipur to Delhi, then road transfers to Jammu and onward to Kashmir. All sightseeing by private cab.",
+    "transport": [
+      { "icon": "🚂", "name": "3rd AC Train", "detail": "Raipur ↔ Delhi, overnight journey" },
+      { "icon": "🚐", "name": "Private Cab", "detail": "Delhi → Jammu → Srinagar and all sightseeing" },
+      { "icon": "🛶", "name": "Shikara Ride", "detail": "2-hour shikara ride on Dal Lake, included" }
+    ]
+  },
+  "pricing": {
+    "label": "PACKAGE COST",
+    "headline": "Starting from ₹21,499",
+    "amount": "₹21,499",
+    "per": "per person",
+    "pitch": "Raipur to Raipur all-inclusive. Triple sharing ₹21,500 | Double sharing ₹23,500.",
+    "includes": [
+      "3rd AC Train tickets (Raipur–Delhi–Raipur)",
+      "All road transfers & sightseeing cab",
+      "3-star hotel accommodation",
+      "Houseboat stay",
+      "4 breakfasts + 4 dinners",
+      "Gondola ride Phase 1 (Kongdoori)",
+      "Pahalgam union cab",
+      "Shikara ride – 2 hours",
+      "All taxes and tolls",
+      "Driver allowance"
+    ],
+    "excludes": [
+      "Sonamarg/Gulmarg union taxi or pony (own cost)",
+      "Gondola Phase 2 ticket",
+      "Lunch or any beverages",
+      "Travel time meals",
+      "Personal expenses",
+      "Adventure activities",
+      "Entry tickets",
+      "Anything not mentioned in itinerary"
+    ]
+  },
+  "squad": {
+    "badge": "GROUP TRAVEL",
+    "title": "Group & Family Friendly",
+    "desc": "Perfect for families, couples and friend groups. Triple and double sharing options available.",
+    "total": 30,
+    "in": 22,
+    "faces": [
+      "👩", "🧑", "👨", "👩", "🧑",
+      "👱", "👩", "🧑", "👨", "👩",
+      "🧑", "👨", "👱", "👩", "🧑",
+      "👨", "👩", "👱", "🧑", "👨",
+      "👩", "🧑"
+    ]
+  },
+  "cta": {
+    "text": "Book Your Kashmir Trip",
+    "url": "#",
+    "sub": "Triple sharing ₹21,500 | Double sharing ₹23,500"
+  },
+  "footer": {
+    "tagline": "If there is paradise on earth, it is here, it is here, it is here.",
+    "chips": [
+      "Hill Station",
+      "9 Days",
+      "Kashmir",
+      "₹21,499"
+    ]
+  },
+  "departure_locations": [
+    { "name": "Raipur", "lat": 21.2514, "lng": 81.6296 },
+    { "name": "Delhi", "lat": 28.6139, "lng": 77.2090 },
+    { "name": "Jammu", "lat": 32.7266, "lng": 74.8570 },
+    { "name": "Srinagar", "lat": 34.0837, "lng": 74.7973 },
+    { "name": "Gulmarg", "lat": 34.0484, "lng": 74.3805 },
+    { "name": "Sonamarg", "lat": 34.3031, "lng": 75.2932 },
+    { "name": "Pahalgam", "lat": 34.0161, "lng": 75.3150 }
+  ],
+  "provider_name": "",
+  "provider_code": "104"
+},
+{
+  "id": 11,
+  "dates": "26–28 June 2026",
+  "title": "Bastar Monsoon Trip – Long Weekend",
+  "location": "Raipur → Bastar → Raipur",
+  "category": "weekend_trip",
+  "category_display": "Weekend Trip",
+  "duration": "3 Days / 2 Nights",
+  "price": 0,
+  "discount": 0,
+  "currency": "₹",
+  "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=500&h=200&fit=crop",
+  "highlights": [
+    "Keshkal Circuit",
+    "Tirthgarh Circuit",
+    "Dantewada Circuit",
+    "Chitrakote Circuit"
+  ],
+  "partner_url": "#",
+  "partner_name": "TM Tour and Travel",
+  "whatsapp_number": "",
+  "hero_title": "Bastar Monsoon Trip",
+  "hero_sub": "Long Weekend Escape",
+  "hero_meta": "3 Days · 26–28 June 2026 · Raipur to Raipur · Group Tour",
+  "hero_img": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1400&fit=crop",
+  "hero_tags": [
+    "Waterfalls",
+    "Natural Beauty",
+    "Culture & Heritage",
+    "Group Tour"
+  ],
+  "stars": 4.7,
+  "vibe": {
+    "label": "THE VIBE",
+    "title": "Escape. Explore.",
+    "title_em": "Experience Bastar This Monsoon!",
+    "desc": "Bastar in monsoon is pure magic — roaring waterfalls, lush green forests, ancient temples, and tribal culture waiting to be explored. This 3-day long weekend trip takes you through the best circuits of Bastar, all from the comfort of a group tour.",
+    "items": [
+      { "icon": "🌊", "text": "Chitrakote – India's Niagara" },
+      { "icon": "🌿", "text": "Keshkal Valley & Ghats" },
+      { "icon": "🛕", "text": "Dantewada Temple Circuit" },
+      { "icon": "💦", "text": "Tirthgarh Waterfalls" }
+    ]
+  },
+  "itin": {
+    "label": "THE JOURNEY",
+    "title": "3 Day Bastar Itinerary",
+    "itinerary": [
+      {
+        "day": "Day 1 – Friday, 26 June",
+        "title": "Raipur to Bastar – Keshkal & Tirthgarh Circuit",
+        "desc": "Depart from Raipur early morning. En-route explore the scenic Keshkal Circuit with its winding ghats and lush valleys. Proceed to Tirthgarh Circuit — visit the stunning Tirthgarh Waterfall, one of the most beautiful falls in Bastar. Check into hotel, dinner and overnight stay."
+      },
+      {
+        "day": "Day 2 – Saturday, 27 June",
+        "title": "Dantewada Circuit & Chitrakote",
+        "desc": "After breakfast, head to the Dantewada Circuit — visit the famous Danteshwari Temple, one of the 52 Shakti Peethas of India. Later drive to Chitrakote — the widest waterfall in India, often called India's Niagara, which is especially spectacular in monsoon. Overnight stay."
+      },
+      {
+        "day": "Day 3 – Sunday, 28 June",
+        "title": "Return to Raipur",
+        "desc": "After breakfast, check out and begin the return journey to Raipur. En-route explore any remaining local spots. Reach Raipur by evening with memories for a lifetime."
+      }
+    ]
+  },
+  "trans": {
+    "label": "HOW WE TRAVEL",
+    "title": "Group Transportation",
+    "desc": "Comfortable group transport from Raipur and back. Sit back and enjoy the monsoon scenery.",
+    "transport": [
+      { "icon": "🚌", "name": "Group Bus / Tempo Traveller", "detail": "Raipur pickup and drop, all sightseeing transfers" },
+      { "icon": "🏨", "name": "Hotel Stay", "detail": "2 nights accommodation included" },
+      { "icon": "🍽️", "name": "Meals", "detail": "Meals included as per itinerary" }
+    ]
+  },
+  "pricing": {
+    "label": "PACKAGE COST",
+    "headline": "Contact for Pricing",
+    "amount": "Contact Us",
+    "per": "per person",
+    "pitch": "All-inclusive group tour. Natural beauty, culture & heritage — memories for a lifetime.",
+    "includes": [
+      "Transportation (Raipur to Raipur)",
+      "2 nights hotel stay",
+      "Meals as per itinerary",
+      "Sightseeing at all circuits",
+      "Tour guide"
+    ],
+    "excludes": [
+      "Personal expenses",
+      "Entry tickets (if any)",
+      "Anything not mentioned in itinerary"
+    ]
+  },
+  "squad": {
+    "badge": "GROUP TOUR",
+    "title": "Group Monsoon Getaway",
+    "desc": "A fun group trip perfect for friends, families and solo travellers. Join the batch!",
+    "total": 25,
+    "in": 18,
+    "faces": [
+      "👩", "🧑", "👨", "👩", "🧑",
+      "👱", "👩", "🧑", "👨", "👩",
+      "🧑", "👨", "👱", "👩", "🧑",
+      "👨", "👩", "🧑"
+    ]
+  },
+  "cta": {
+    "text": "Book Your Spot",
+    "url": "#",
+    "sub": "26–28 June 2026 · Friday to Sunday · Limited Seats"
+  },
+  "footer": {
+    "tagline": "Natural Beauty · Culture & Heritage · Memories for a Lifetime",
+    "chips": [
+      "Weekend Trip",
+      "3 Days",
+      "Bastar",
+      "Monsoon"
+    ]
+  },
+  "departure_locations": [
+    { "name": "Raipur", "lat": 21.2514, "lng": 81.6296 },
+    { "name": "Keshkal", "lat": 19.9833, "lng": 81.5833 },
+    { "name": "Tirthgarh Waterfall", "lat": 19.3167, "lng": 81.7667 },
+    { "name": "Dantewada", "lat": 18.8953, "lng": 81.3483 },
+    { "name": "Chitrakote Falls", "lat": 19.2167, "lng": 81.7000 }
+  ],
+  "provider_name": "TM Tour and Travel",
+  "provider_code": "105"
+}
   ]
 }
