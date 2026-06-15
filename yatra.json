@@ -1,1382 +1,6 @@
 {
   "packages": [
     {
-      "id": 1,
-      "dates": "4 June – 10 June",
-      "title": "Bangalore to Goa Road Trip",
-      "location": "Bangalore → Goa",
-      "category": "road_trip",
-      "category_display": "Road Trip",
-      "duration": "6 Days",
-      "price": 16000,
-      "discount": 1000,
-      "currency": "₹",
-      "image": "https://res.cloudinary.com/dlyzup9qp/image/upload/w_500,h_200,c_fill,q_auto,f_auto/v1779444261/photo-1519046904884-53103b34b206_xfdtow.jpg",
-      "highlights": [
-        "Night Drives",
-        "Private Pool",
-        "Thar+Scorpio",
-        "Beach Hopping"
-      ],
-      "partner_url": "#",
-      "partner_name": "Midnight Crew",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Bangalore to Goa",
-      "hero_sub": "Road Trips Reimagined",
-      "hero_meta": "6 Days · 2 Nights Beach · Thar + Scorpio",
-      "hero_img": "https://res.cloudinary.com/dlyzup9qp/image/upload/w_1400,c_fill,q_auto,f_auto/v1779444261/photo-1519046904884-53103b34b206_xfdtow.jpg",
-      "hero_tags": [
-        "Night Drives",
-        "Private Pool",
-        "Beach Hopping",
-        "Sunsets"
-      ],
-      "stars": 4.8,
-      "vibe": {
-        "label": "THE VIBE",
-        "title": "Midnight Roads &",
-        "title_em": "Ocean Sunrise",
-        "desc": "Pack your crew, blast your playlist and let the highway disappear behind you. This is the trip you’ve been planning in your head since forever – salty air, bonfire nights, and the freedom of the open road.",
-        "items": [
-          {
-            "icon": "🌙",
-            "text": "Night Drive Bliss"
-          },
-          {
-            "icon": "🏖️",
-            "text": "Secret Beaches"
-          },
-          {
-            "icon": "🔥",
-            "text": "Bonfire Nights"
-          },
-          {
-            "icon": "🚗",
-            "text": "Thar + Scorpio Fleet"
-          }
-        ]
-      },
-      "itin": {
-        "label": "THE JOURNEY",
-        "title": "Day by Day Breakdown",
-        "itinerary": [
-          {
-            "day": "Day 1",
-            "title": "Bangalore → Hubli",
-            "desc": "Depart at 9 PM, drive through the night. Pit-stop chai at Dharwad highway dhabas."
-          },
-          {
-            "day": "Day 2",
-            "title": "Hubli → Goa Arrival",
-            "desc": "Roll into North Goa by morning. Check in, crash, recover. Evening: Baga beach sunset."
-          },
-          {
-            "day": "Day 3",
-            "title": "North Goa Beach Day",
-            "desc": "Calangute, Anjuna, Vagator – beach hop till you drop. Sunset at Chapora fort."
-          },
-          {
-            "day": "Day 4",
-            "title": "South Goa Retreat",
-            "desc": "Palolem and Colva – the quieter, greener side. Private pool villa time."
-          },
-          {
-            "day": "Day 5",
-            "title": "Adventure Day",
-            "desc": "Water sports, scuba intro, or just hammock life. Your call."
-          },
-          {
-            "day": "Day 6",
-            "title": "Return Drive",
-            "desc": "Early morning checkout, highway drive back to Bangalore. Home by night."
-          }
-        ]
-      },
-      "trans": {
-        "label": "HOW WE ROLL",
-        "title": "Your Ride Details",
-        "desc": "We don’t do buses. Your own private vehicle, your own pace.",
-        "transport": [
-          {
-            "icon": "🚙",
-            "name": "Mahindra Thar",
-            "detail": "2 slots – off-road capable, open roof optional"
-          },
-          {
-            "icon": "🛻",
-            "name": "Scorpio-N",
-            "detail": "4 slots – AC, 6-seater, boot space"
-          },
-          {
-            "icon": "⛽",
-            "name": "Fuel Included",
-            "detail": "Full tank on departure, return to base"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "INVESTMENT",
-        "headline": "Starting from ₹15,000",
-        "amount": "₹15,000",
-        "per": "per person",
-        "pitch": "All-inclusive pricing. No hidden costs. Just show up.",
-        "includes": [
-          "Accommodation (4 nights)",
-          "Vehicle + Fuel",
-          "Welcome drinks",
-          "Bonfire night",
-          "Driver allowance",
-          "Trip coordinator"
-        ]
-      },
-      "squad": {
-        "badge": "CREW SIZE",
-        "title": "Small Group, Big Memories",
-        "desc": "Max 12 people per trip. Minimum strangers, maximum vibes.",
-        "total": 12,
-        "in": 9,
-        "faces": [
-          "👩",
-          "🧑",
-          "👨",
-          "👩",
-          "🧑",
-          "👱",
-          "👩",
-          "🧑",
-          "👨"
-        ]
-      },
-      "cta": {
-        "text": "Reserve Your Spot",
-        "url": "#",
-        "sub": "Only 3 seats left · ₹2,000 advance to lock in"
-      },
-      "footer": {
-        "tagline": "Made for the ones who drive till sunrise",
-        "chips": [
-          "Road Trip",
-          "6 Days",
-          "Goa",
-          "₹15K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Bangalore",
-          "lat": 12.9716,
-          "lng": 77.5946
-        },
-        {
-          "name": "Raipur",
-          "lat": 21.2514,
-          "lng": 81.6296
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "101"
-    },
-    {
-      "id": 2,
-      "dates": "20 June – 1 July",
-      "title": "Char Dham Yatra",
-      "location": "Uttarakhand",
-      "category": "tirth_yatra",
-      "category_display": "Tirth Yatra",
-      "duration": "12 Days",
-      "price": 35000,
-      "discount": 2000,
-      "currency": "₹",
-      "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=500&h=200&fit=crop",
-      "highlights": [
-        "Badrinath",
-        "Kedarnath",
-        "Gangotri",
-        "Yamunotri"
-      ],
-      "partner_url": "#",
-      "partner_name": "HolyYatra Tours",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Char Dham Yatra",
-      "hero_sub": "Sacred Circuit",
-      "hero_meta": "12 Days · 4 Dhams · Spiritual Journey",
-      "hero_img": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=1400&fit=crop",
-      "hero_tags": [
-        "Badrinath",
-        "Kedarnath",
-        "Gangotri",
-        "Yamunotri"
-      ],
-      "stars": 4.9,
-      "vibe": {
-        "label": "THE JOURNEY",
-        "title": "Seek Blessings at",
-        "title_em": "Himalaya’s Sacred Four",
-        "desc": "Walk the path that millions of devotees have walked for centuries. The air is thin, the faith is thick and the Himalayas make you feel tiny in the most beautiful way.",
-        "items": [
-          {
-            "icon": "🛕",
-            "text": "4 Sacred Dhams"
-          },
-          {
-            "icon": "🏔️",
-            "text": "Himalayan Landscape"
-          },
-          {
-            "icon": "🙏",
-            "text": "Guided Puja"
-          },
-          {
-            "icon": "🌸",
-            "text": "Flower Valleys"
-          }
-        ]
-      },
-      "itin": {
-        "label": "THE PILGRIMAGE",
-        "title": "12 Days Sacred Route",
-        "itinerary": [
-          {
-            "day": "Day 1–2",
-            "title": "Haridwar → Yamunotri",
-            "desc": "Arrive Haridwar, proceed to Janki Chatti. Trek to Yamunotri shrine."
-          },
-          {
-            "day": "Day 3–4",
-            "title": "Yamunotri → Uttarkashi → Gangotri",
-            "desc": "Drive to Uttarkashi, visit Gangotri temple and Bhagirathi ghats."
-          },
-          {
-            "day": "Day 5–7",
-            "title": "Gangotri → Kedarnath",
-            "desc": "Trek to Gaurikund, helicopter or 16 km trek to Kedarnath. Sacred darshan."
-          },
-          {
-            "day": "Day 8–10",
-            "title": "Kedarnath → Badrinath",
-            "desc": "Drive via Joshimath. Badrinath temple morning aarti. Mana village visit."
-          },
-          {
-            "day": "Day 11–12",
-            "title": "Return via Rishikesh → Haridwar",
-            "desc": "Ganga aarti at Har Ki Pauri. Journey complete, soul renewed."
-          }
-        ]
-      },
-      "trans": {
-        "label": "TRAVEL",
-        "title": "Comfort for Every Km",
-        "desc": "Tempo Traveller, helicopter options, and porters for the treks.",
-        "transport": [
-          {
-            "icon": "🚐",
-            "name": "Tempo Traveller",
-            "detail": "12-seater, mountain-ready suspension"
-          },
-          {
-            "icon": "🚁",
-            "name": "Helicopter (Optional)",
-            "detail": "Kedarnath heli at extra cost"
-          },
-          {
-            "icon": "🧳",
-            "name": "Porter Service",
-            "detail": "Available at Kedarnath trek"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "PACKAGE COST",
-        "headline": "12-Day Complete Package",
-        "amount": "₹35,000",
-        "per": "per person",
-        "pitch": "Accommodation, meals, transport, and guide all included.",
-        "includes": [
-          "11 nights accommodation",
-          "All meals (veg)",
-          "Tempo Traveller",
-          "Expert guide",
-          "Puja arrangements",
-          "Travel insurance"
-        ]
-      },
-      "squad": {
-        "badge": "GROUP SIZE",
-        "title": "Journey Together, Pray Together",
-        "desc": "Groups of 8–20. Family-friendly. All ages welcome.",
-        "total": 20,
-        "in": 14,
-        "faces": [
-          "👴",
-          "👵",
-          "👨",
-          "👩",
-          "🧑",
-          "👴",
-          "👵",
-          "👩",
-          "👨",
-          "🧑",
-          "👴",
-          "👵",
-          "👨",
-          "👩"
-        ]
-      },
-      "cta": {
-        "text": "Book Char Dham Yatra",
-        "url": "#",
-        "sub": "Season: May – June & Sept – Oct"
-      },
-      "footer": {
-        "tagline": "Where the mountains meet the divine",
-        "chips": [
-          "Tirth Yatra",
-          "12 Days",
-          "Uttarakhand",
-          "₹35K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Haridwar",
-          "lat": 29.9457,
-          "lng": 78.1642
-        },
-        {
-          "name": "Dabhra",
-          "lat": 21.909,
-          "lng": 83.145
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "101"
-    },
-    {
-      "id": 3,
-      "dates": "Every Weekend",
-      "recurring": "Every Weekend",
-      "title": "Kashmir Honeymoon Special",
-      "location": "Srinagar, Gulmarg, Pahalgam",
-      "category": "honeymoon",
-      "category_display": "Honeymoon",
-      "duration": "7 Days",
-      "price": 28000,
-      "currency": "₹",
-      "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=500&h=200&fit=crop",
-      "highlights": [
-        "Houseboat Stay",
-        "Gondola Ride",
-        "Shikara Ride",
-        "Snow Views"
-      ],
-      "partner_url": "#",
-      "partner_name": "Romantic Escapes",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Kashmir Honeymoon",
-      "hero_sub": "Heaven on Earth",
-      "hero_meta": "7 Days · Srinagar · Gulmarg · Pahalgam",
-      "hero_img": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1400&fit=crop",
-      "hero_tags": [
-        "Houseboat Stay",
-        "Gondola Ride",
-        "Shikara Ride",
-        "Snow Views"
-      ],
-      "stars": 4.9,
-      "vibe": {
-        "label": "ROMANCE",
-        "title": "Love Story Written in",
-        "title_em": "Snow and Saffron",
-        "desc": "Float on a Dal Lake houseboat as the sun sets behind the Himalayas. Ride the Gulmarg gondola hand-in-hand to a world dusted in white. Kashmir is not a destination – it’s a feeling.",
-        "items": [
-          {
-            "icon": "🌹",
-            "text": "Houseboat Nights"
-          },
-          {
-            "icon": "🛶",
-            "text": "Shikara Rides"
-          },
-          {
-            "icon": "🏔️",
-            "text": "Snow at Gulmarg"
-          },
-          {
-            "icon": "🌸",
-            "text": "Tulip Gardens"
-          }
-        ]
-      },
-      "itin": {
-        "label": "7 DAYS OF MAGIC",
-        "title": "Your Honeymoon Itinerary",
-        "itinerary": [
-          {
-            "day": "Day 1",
-            "title": "Arrive Srinagar",
-            "desc": "Welcome with kahwa. Check into deluxe houseboat on Dal Lake."
-          },
-          {
-            "day": "Day 2",
-            "title": "Dal Lake & Old City",
-            "desc": "Morning shikara ride. Mughal gardens: Shalimar Bagh, Nishat Bagh. Spice market."
-          },
-          {
-            "day": "Day 3",
-            "title": "Gulmarg",
-            "desc": "Gondola ride to Apharwat Peak – snow experience. Meadow walk. Horse ride."
-          },
-          {
-            "day": "Day 4",
-            "title": "Pahalgam",
-            "desc": "Drive to Betaab Valley, Aru Valley. Lidder river picnic."
-          },
-          {
-            "day": "Day 5",
-            "title": "Sonmarg Day Trip",
-            "desc": "Glacier views at Thajiwas. Hot chocolate with mountain backdrop."
-          },
-          {
-            "day": "Day 6",
-            "title": "Leisure & Shopping",
-            "desc": "Kashmiri shawls, saffron, walnut crafts. Candlelit dinner on the lake."
-          },
-          {
-            "day": "Day 7",
-            "title": "Departure",
-            "desc": "Farewell with wazwan breakfast and transfer to airport."
-          }
-        ]
-      },
-      "trans": {
-        "label": "HOW YOU TRAVEL",
-        "title": "Private & Comfortable",
-        "desc": "Dedicated private car for the couple throughout the trip.",
-        "transport": [
-          {
-            "icon": "🚗",
-            "name": "Private Innova Crysta",
-            "detail": "Dedicated for the couple, all transfers"
-          },
-          {
-            "icon": "🛶",
-            "name": "Shikara Rides",
-            "detail": "Twice daily included"
-          },
-          {
-            "icon": "🚡",
-            "name": "Gulmarg Gondola",
-            "detail": "Phase 1 & 2 included in package"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "HONEYMOON PACKAGE",
-        "headline": "7 Nights Complete Package",
-        "amount": "₹28,000",
-        "per": "per person",
-        "pitch": "Romantic setup, candle dinners, and couple activities included.",
-        "includes": [
-          "6 nights accommodation",
-          "Houseboat stay",
-          "All meals",
-          "Private cab",
-          "Gondola tickets",
-          "Romantic dinner"
-        ]
-      },
-      "squad": {
-        "badge": "COUPLES ONLY",
-        "title": "Just the Two of You",
-        "desc": "Private experience – no group tours, no strangers.",
-        "total": 1,
-        "in": 1,
-        "faces": [
-          "💑"
-        ]
-      },
-      "cta": {
-        "text": "Plan Our Honeymoon",
-        "url": "#",
-        "sub": "Best season: April–June and Sept–Oct"
-      },
-      "footer": {
-        "tagline": "Where every view is a postcard",
-        "chips": [
-          "Honeymoon",
-          "7 Days",
-          "Kashmir",
-          "₹28K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Srinagar",
-          "lat": 34.0837,
-          "lng": 74.7973
-        },
-        {
-          "name": "Delhi",
-          "lat": 28.6139,
-          "lng": 77.209
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "101"
-    },
-    {
-      "id": 4,
-      "dates": "15 June – 20 June",
-      "title": "Valley of Flowers Trek",
-      "location": "Uttarakhand",
-      "category": "trekking",
-      "category_display": "Trekking",
-      "duration": "6 Days",
-      "price": 12500,
-      "currency": "₹",
-      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=500&h=200&fit=crop",
-      "highlights": [
-        "UNESCO Site",
-        "Alpine Flowers",
-        "Camping",
-        "Himalayan Views"
-      ],
-      "partner_url": "#",
-      "partner_name": "Himalayan Trekkers",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Valley of Flowers",
-      "hero_sub": "Trek",
-      "hero_meta": "6 Days · UNESCO Site · 11,500 ft",
-      "hero_img": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=1400&fit=crop",
-      "hero_tags": [
-        "Alpine Flowers",
-        "Camping",
-        "Himalayan Views",
-        "UNESCO"
-      ],
-      "stars": 4.7,
-      "vibe": {
-        "label": "THE WILDERNESS",
-        "title": "A Meadow Painted by",
-        "title_em": "Nature’s Own Brush",
-        "desc": "500+ species of wildflowers bloom across a 7.5 km valley at 11,500 ft. Every monsoon, this hidden UNESCO gem transforms into a rolling canvas of colour. The trek is moderate – the views are extraordinary.",
-        "items": [
-          {
-            "icon": "🌸",
-            "text": "500+ Flower Species"
-          },
-          {
-            "icon": "⛺",
-            "text": "High Altitude Camping"
-          },
-          {
-            "icon": "🦅",
-            "text": "Himalayan Wildlife"
-          },
-          {
-            "icon": "🌿",
-            "text": "UNESCO World Heritage"
-          }
-        ]
-      },
-      "itin": {
-        "label": "THE TREK",
-        "title": "6-Day Trail Plan",
-        "itinerary": [
-          {
-            "day": "Day 1",
-            "title": "Haridwar → Joshimath",
-            "desc": "Drive or overnight bus to Joshimath. Rest and acclimatization."
-          },
-          {
-            "day": "Day 2",
-            "title": "Joshimath → Govindghat → Ghangaria",
-            "desc": "13 km trek (or mule ride) to base camp Ghangaria at 10,200 ft."
-          },
-          {
-            "day": "Day 3",
-            "title": "Valley of Flowers",
-            "desc": "8 km trek into the valley. Full day exploring the bloom."
-          },
-          {
-            "day": "Day 4",
-            "title": "Hemkund Sahib (Optional)",
-            "desc": "Sacred Sikh shrine at 14,100 ft. Tough but rewarding."
-          },
-          {
-            "day": "Day 5",
-            "title": "Return to Govindghat",
-            "desc": "Trek back to Ghangaria, then Govindghat."
-          },
-          {
-            "day": "Day 6",
-            "title": "Govindghat → Haridwar",
-            "desc": "Drive back, overnight arrival."
-          }
-        ]
-      },
-      "trans": {
-        "label": "THE ROUTE",
-        "title": "Getting There",
-        "desc": "Mix of road and trek. Mule options at key points.",
-        "transport": [
-          {
-            "icon": "🚐",
-            "name": "Shared SUV",
-            "detail": "Haridwar to Govindghat, mountain roads"
-          },
-          {
-            "icon": "🥾",
-            "name": "Trek (13 km)",
-            "detail": "Govindghat to Ghangaria, moderate"
-          },
-          {
-            "icon": "🐴",
-            "name": "Mule / Pony",
-            "detail": "Available at extra cost if needed"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "TREK PACKAGE",
-        "headline": "All-Inclusive 6-Day Trek",
-        "amount": "₹12,500",
-        "per": "per person",
-        "pitch": "Expert guide, meals on trail, camping gear all included.",
-        "includes": [
-          "Accommodation + tents",
-          "All meals on trek",
-          "Expert guide",
-          "First aid kit",
-          "Entry permits",
-          "Transport Haridwar↔Govindghat"
-        ]
-      },
-      "squad": {
-        "badge": "BATCH SIZE",
-        "title": "Small Batches, Big Experiences",
-        "desc": "Max 10 trekkers per batch. Expert-to-trekker ratio 1:5.",
-        "total": 10,
-        "in": 7,
-        "faces": [
-          "🧑",
-          "👨",
-          "👩",
-          "👱",
-          "🧑",
-          "👩",
-          "👨"
-        ]
-      },
-      "cta": {
-        "text": "Book This Trek",
-        "url": "#",
-        "sub": "Season: July – September only"
-      },
-      "footer": {
-        "tagline": "Where flowers bloom higher than clouds",
-        "chips": [
-          "Trekking",
-          "6 Days",
-          "Uttarakhand",
-          "₹12.5K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Rishikesh",
-          "lat": 30.0869,
-          "lng": 78.2676
-        },
-        {
-          "name": "Delhi",
-          "lat": 28.6139,
-          "lng": 77.209
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "101"
-    },
-    {
-      "id": 5,
-      "dates": "Each Month",
-      "recurring": "Each Month",
-      "title": "Rajasthan Heritage Tour",
-      "location": "Jaipur, Jodhpur, Udaipur",
-      "category": "regional",
-      "category_display": "Regional/Cultural",
-      "duration": "8 Days",
-      "price": 22000,
-      "currency": "₹",
-      "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=500&h=200&fit=crop",
-      "highlights": [
-        "Palace Stays",
-        "Desert Safari",
-        "Folk Dance",
-        "Fort Exploration"
-      ],
-      "partner_url": "#",
-      "partner_name": "Royal Rajasthan Tours",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Rajasthan Heritage",
-      "hero_sub": "Royal Tour",
-      "hero_meta": "8 Days · Jaipur · Jodhpur · Udaipur",
-      "hero_img": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=1400&fit=crop",
-      "hero_tags": [
-        "Palace Stays",
-        "Desert Safari",
-        "Folk Dance",
-        "Fort Exploration"
-      ],
-      "stars": 4.8,
-      "vibe": {
-        "label": "THE EXPERIENCE",
-        "title": "Live Like",
-        "title_em": "Royalty",
-        "desc": "Drift through dunes on camelback, sleep in palace hotels, and watch the sun set over Pichola Lake. Rajasthan doesn’t just show you history – it makes you part of it.",
-        "items": [
-          {
-            "icon": "🏰",
-            "text": "Heritage Palace Hotels"
-          },
-          {
-            "icon": "🐪",
-            "text": "Camel Desert Safari"
-          },
-          {
-            "icon": "🎶",
-            "text": "Folk Music Evenings"
-          },
-          {
-            "icon": "🌅",
-            "text": "Lake Pichola Sunsets"
-          }
-        ]
-      },
-      "itin": {
-        "label": "8 DAYS OF ROYALTY",
-        "title": "City by City Itinerary",
-        "itinerary": [
-          {
-            "day": "Day 1–2",
-            "title": "Jaipur – Pink City",
-            "desc": "Amber Fort, City Palace, Hawa Mahal, bazaar shopping."
-          },
-          {
-            "day": "Day 3",
-            "title": "Jaipur → Jodhpur",
-            "desc": "Road drive. Mehrangarh Fort, Jaswant Thada, blue city views."
-          },
-          {
-            "day": "Day 4",
-            "title": "Jodhpur → Jaisalmer",
-            "desc": "Desert city. Jaisalmer Fort, havelis, Patwon Ki Haveli."
-          },
-          {
-            "day": "Day 5",
-            "title": "Sam Sand Dunes",
-            "desc": "Camel safari, cultural evening, folk dance, stargazing in the Thar."
-          },
-          {
-            "day": "Day 6",
-            "title": "Jaisalmer → Udaipur",
-            "desc": "Long drive via Pali. Check in by lake."
-          },
-          {
-            "day": "Day 7",
-            "title": "Udaipur",
-            "desc": "City Palace, Lake Pichola boat ride, Jagdish Temple, sunset cruise."
-          },
-          {
-            "day": "Day 8",
-            "title": "Departure",
-            "desc": "Transfer to Udaipur airport or train station."
-          }
-        ]
-      },
-      "trans": {
-        "label": "TRAVEL",
-        "title": "Royal Comfort",
-        "desc": "Private AC vehicle throughout. No sharing with strangers.",
-        "transport": [
-          {
-            "icon": "🚗",
-            "name": "Private Innova",
-            "detail": "AC, all city-to-city transfers"
-          },
-          {
-            "icon": "🐪",
-            "name": "Camel Safari",
-            "detail": "Sam Sand Dunes – 2 hours included"
-          },
-          {
-            "icon": "🛶",
-            "name": "Boat Ride",
-            "detail": "Lake Pichola, Udaipur"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "HERITAGE PACKAGE",
-        "headline": "8 Days Royal Rajasthan",
-        "amount": "₹22,000",
-        "per": "per person",
-        "pitch": "Heritage hotels, palace dinners, and cultural experiences included.",
-        "includes": [
-          "7 nights heritage hotels",
-          "Daily breakfast",
-          "Private Innova",
-          "Camel safari",
-          "Boat ride",
-          "Folk dance evening"
-        ]
-      },
-      "squad": {
-        "badge": "GROUP SIZE",
-        "title": "Family or Friends",
-        "desc": "Great for families, couples, and friend groups. Customizable.",
-        "total": 15,
-        "in": 10,
-        "faces": [
-          "👴",
-          "👵",
-          "👨",
-          "👩",
-          "🧑",
-          "👦",
-          "👧",
-          "👨",
-          "👩",
-          "🧑"
-        ]
-      },
-      "cta": {
-        "text": "Book Royal Tour",
-        "url": "#",
-        "sub": "Available year-round · Best: Oct – March"
-      },
-      "footer": {
-        "tagline": "Every fort has a story. Come hear them.",
-        "chips": [
-          "Heritage",
-          "8 Days",
-          "Rajasthan",
-          "₹22K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Jaipur",
-          "lat": 26.9124,
-          "lng": 75.7873
-        },
-        {
-          "name": "Delhi",
-          "lat": 28.6139,
-          "lng": 77.209
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "102"
-    },
-    {
-      "id": 6,
-      "dates": "1 June – 3 June",
-      "title": "Jim Corbett Wildlife Safari",
-      "location": "Nainital, Uttarakhand",
-      "category": "wildlife",
-      "category_display": "Wildlife",
-      "duration": "3 Days",
-      "price": 8500,
-      "discount": 500,
-      "currency": "₹",
-      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=500&h=200&fit=crop",
-      "highlights": [
-        "Elephant Safari",
-        "Tiger Spotting",
-        "Jungle Lodge",
-        "Bird Watching"
-      ],
-      "partner_url": "#",
-      "partner_name": "Wildlife Explorers",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Jim Corbett Wildlife",
-      "hero_sub": "Safari",
-      "hero_meta": "3 Days · Tiger Country · Jungle Lodge",
-      "hero_img": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1400&fit=crop",
-      "hero_tags": [
-        "Tiger Spotting",
-        "Elephant Safari",
-        "Jungle Lodge",
-        "Bird Watching"
-      ],
-      "stars": 4.6,
-      "vibe": {
-        "label": "THE WILD CALL",
-        "title": "Into the",
-        "title_em": "Tiger’s Territory",
-        "desc": "India’s oldest national park, home to 250+ Bengal tigers. The jeep rattles through sal forests as your naturalist guides your eyes to the invisible – a pug mark, a langur’s alarm call, then suddenly – stripes.",
-        "items": [
-          {
-            "icon": "🐯",
-            "text": "Bengal Tigers"
-          },
-          {
-            "icon": "🐘",
-            "text": "Elephant Safari"
-          },
-          {
-            "icon": "🦜",
-            "text": "600+ Bird Species"
-          },
-          {
-            "icon": "🌿",
-            "text": "Dense Sal Forests"
-          }
-        ]
-      },
-      "itin": {
-        "label": "3 DAYS IN THE WILD",
-        "title": "Safari Schedule",
-        "itinerary": [
-          {
-            "day": "Day 1",
-            "title": "Arrive Ramnagar · Evening Safari",
-            "desc": "Check into jungle lodge. Briefing with naturalist. Evening zone safari."
-          },
-          {
-            "day": "Day 2",
-            "title": "Full Day Safaris",
-            "desc": "Morning jeep safari (6 AM), afternoon elephant safari (2 PM). Bird watching session."
-          },
-          {
-            "day": "Day 3",
-            "title": "Morning Safari · Departure",
-            "desc": "Final morning safari. Depart by noon."
-          }
-        ]
-      },
-      "trans": {
-        "label": "SAFARI RIDES",
-        "title": "How You Explore",
-        "desc": "Gypsies and Cantors for jeep safaris. Naturalist included.",
-        "transport": [
-          {
-            "icon": "🚙",
-            "name": "Jeep Safari (Gypsy)",
-            "detail": "4 per jeep, zone-entry permits included"
-          },
-          {
-            "icon": "🐘",
-            "name": "Elephant Safari",
-            "detail": "Dawn elephant ride in grassland"
-          },
-          {
-            "icon": "🔭",
-            "name": "Naturalist Guide",
-            "detail": "Expert certified wildlife guide"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "SAFARI PACKAGE",
-        "headline": "3-Day Wildlife Package",
-        "amount": "₹8,500",
-        "per": "per person",
-        "pitch": "Jungle lodge, all safaris, guide, and all meals included.",
-        "includes": [
-          "2 nights jungle lodge",
-          "All meals",
-          "2 jeep safaris",
-          "1 elephant safari",
-          "Naturalist guide",
-          "Park entry fees"
-        ]
-      },
-      "squad": {
-        "badge": "JEEP CAPACITY",
-        "title": "Small Jeeps, Wild Views",
-        "desc": "Max 4 per jeep. Book a full jeep for your group.",
-        "total": 8,
-        "in": 5,
-        "faces": [
-          "🧑",
-          "👨",
-          "👩",
-          "👱",
-          "🧑"
-        ]
-      },
-      "cta": {
-        "text": "Book Safari Package",
-        "url": "#",
-        "sub": "Season: Nov – June · Park closed July–Sept"
-      },
-      "footer": {
-        "tagline": "Nature doesn’t rush. Neither should you.",
-        "chips": [
-          "Wildlife",
-          "3 Days",
-          "Corbett",
-          "₹8.5K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Ramnagar",
-          "lat": 29.3752,
-          "lng": 79.1289
-        },
-        {
-          "name": "Delhi",
-          "lat": 28.6139,
-          "lng": 77.209
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "102"
-    },
-    {
-      "id": 7,
-      "dates": "25 June – 29 June",
-      "title": "Andaman Beach & Honeymoon",
-      "location": "Port Blair, Havelock",
-      "category": "honeymoon",
-      "category_display": "Honeymoon",
-      "duration": "5 Days",
-      "price": 32000,
-      "currency": "₹",
-      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=500&h=200&fit=crop",
-      "highlights": [
-        "Radhanagar Beach",
-        "Scuba Diving",
-        "Cellular Jail",
-        "Sunset Cruise"
-      ],
-      "partner_url": "#",
-      "partner_name": "Island Holidays",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Andaman Beach",
-      "hero_sub": "Island Escape",
-      "hero_meta": "5 Days · Port Blair · Havelock · Neil Island",
-      "hero_img": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1400&fit=crop",
-      "hero_tags": [
-        "Radhanagar Beach",
-        "Scuba Diving",
-        "Cellular Jail",
-        "Sunset Cruise"
-      ],
-      "stars": 4.8,
-      "vibe": {
-        "label": "ISLAND LIFE",
-        "title": "Turquoise Waters &",
-        "title_em": "Powder Sand Shores",
-        "desc": "Radhanagar Beach is ranked among Asia’s best. The coral reefs at Elephant Beach are alive with colour. And the bioluminescent plankton at night – that’s something no photograph can do justice to.",
-        "items": [
-          {
-            "icon": "🤿",
-            "text": "Scuba Diving"
-          },
-          {
-            "icon": "🌊",
-            "text": "Snorkelling Reefs"
-          },
-          {
-            "icon": "✨",
-            "text": "Bioluminescent Bay"
-          },
-          {
-            "icon": "🏝️",
-            "text": "Secluded Beaches"
-          }
-        ]
-      },
-      "itin": {
-        "label": "5 ISLAND DAYS",
-        "title": "Island by Island",
-        "itinerary": [
-          {
-            "day": "Day 1",
-            "title": "Port Blair Arrival",
-            "desc": "Cellular Jail, light and sound show. Ross Island evening walk."
-          },
-          {
-            "day": "Day 2",
-            "title": "Havelock Island",
-            "desc": "Ferry to Havelock. Radhanagar Beach. Sunset and beachside dinner."
-          },
-          {
-            "day": "Day 3",
-            "title": "Scuba & Elephant Beach",
-            "desc": "Scuba diving intro or snorkelling at Elephant Beach. Kayaking in mangroves."
-          },
-          {
-            "day": "Day 4",
-            "title": "Neil Island",
-            "desc": "Ferry to Neil. Natural Bridge, Laxmanpur Beach. Quiet island vibes."
-          },
-          {
-            "day": "Day 5",
-            "title": "Return to Port Blair · Depart",
-            "desc": "Ferry back. Shopping at Aberdeen Bazaar. Airport transfer."
-          }
-        ]
-      },
-      "trans": {
-        "label": "ISLAND HOPPING",
-        "title": "Sea & Air Transfers",
-        "desc": "Ferries between islands, flight assistance provided.",
-        "transport": [
-          {
-            "icon": "⛴️",
-            "name": "Government Ferry",
-            "detail": "Port Blair ↔ Havelock ↔ Neil, included"
-          },
-          {
-            "icon": "✈️",
-            "name": "Flight Connection",
-            "detail": "Airfare not included, assistance provided"
-          },
-          {
-            "icon": "🛵",
-            "name": "Scooter Rental",
-            "detail": "On Neil Island, included in package"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "ISLAND PACKAGE",
-        "headline": "5-Day Andaman Package",
-        "amount": "₹32,000",
-        "per": "per person",
-        "pitch": "Beach resort stays, all ferry tickets, and water sports included.",
-        "includes": [
-          "4 nights beach resort",
-          "Ferry tickets",
-          "Scuba diving (1 dive)",
-          "Snorkelling",
-          "Kayaking",
-          "All breakfasts"
-        ]
-      },
-      "squad": {
-        "badge": "GROUP SIZE",
-        "title": "Couples & Friend Groups",
-        "desc": "Great for couples and groups of 2–8. Private booking available.",
-        "total": 8,
-        "in": 6,
-        "faces": [
-          "👩",
-          "🧑",
-          "👨",
-          "👱",
-          "👩",
-          "🧑"
-        ]
-      },
-      "cta": {
-        "text": "Book Island Escape",
-        "url": "#",
-        "sub": "Year-round · Best: Oct – May"
-      },
-      "footer": {
-        "tagline": "The ocean calls. Will you answer?",
-        "chips": [
-          "Beach",
-          "5 Days",
-          "Andaman",
-          "₹32K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Port Blair",
-          "lat": 11.7401,
-          "lng": 92.7382
-        },
-        {
-          "name": "Chennai",
-          "lat": 13.0827,
-          "lng": 80.2707
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "102"
-    },
-    {
-      "id": 8,
-      "dates": "Every Saturday",
-      "recurring": "Every Saturday",
-      "title": "Rishikesh Adventure & Yoga",
-      "location": "Rishikesh, Uttarakhand",
-      "category": "trekking",
-      "category_display": "Trekking",
-      "duration": "4 Days",
-      "price": 9500,
-      "currency": "₹",
-      "image": "https://res.cloudinary.com/dlyzup9qp/image/upload/q_auto/f_auto/v1779444261/photo-1519046904884-53103b34b206_xfdtow.jpg",
-      "highlights": [
-        "River Rafting",
-        "Bungee Jumping",
-        "Ganga Aarti",
-        "Yoga Retreat"
-      ],
-      "partner_url": "#",
-      "partner_name": "Adventure Him",
-      "whatsapp_number": "917734906606",
-      "hero_title": "Rishikesh Adventure",
-      "hero_sub": "& Yoga Retreat",
-      "hero_meta": "4 Days · River Rafting · Bungee · Ganga Aarti",
-      "hero_img": "https://res.cloudinary.com/dlyzup9qp/image/upload/q_auto/f_auto/v1779444261/photo-1519046904884-53103b34b206_xfdtow.jpg",
-      "hero_tags": [
-        "River Rafting",
-        "Bungee Jumping",
-        "Ganga Aarti",
-        "Yoga Retreat"
-      ],
-      "stars": 4.7,
-      "vibe": {
-        "label": "ADRENALINE + ZEN",
-        "title": "Thrill by Day,",
-        "title_em": "Peace by Evening",
-        "desc": "Rishikesh is the only place where you can bungee jump off a 83 m cliff in the morning and meditate by the Ganges at sunset. White water rapids, ziplines, cliff jumping – and then yoga at dawn. This is balance.",
-        "items": [
-          {
-            "icon": "🏄",
-            "text": "Grade 3–4 Rapids"
-          },
-          {
-            "icon": "🪂",
-            "text": "Bungee at 83 m"
-          },
-          {
-            "icon": "🧘",
-            "text": "Sunrise Yoga"
-          },
-          {
-            "icon": "🔥",
-            "text": "Ganga Aarti Ritual"
-          }
-        ]
-      },
-      "itin": {
-        "label": "4 POWER DAYS",
-        "title": "Adventure Schedule",
-        "itinerary": [
-          {
-            "day": "Day 1",
-            "title": "Arrive · Settle · Ganga Aarti",
-            "desc": "Check into camp. Evening Ganga aarti at Triveni Ghat – the real Rishikesh welcome."
-          },
-          {
-            "day": "Day 2",
-            "title": "River Rafting",
-            "desc": "16 km or 26 km white-water rafting on Ganga. Grade 3–4 rapids. Beach cliff jump."
-          },
-          {
-            "day": "Day 3",
-            "title": "Bungee + Giant Swing",
-            "desc": "83 m Mohan’s Bungee Jump. Optional: Flying Fox zipline, Giant Swing."
-          },
-          {
-            "day": "Day 4",
-            "title": "Yoga & Departure",
-            "desc": "Dawn yoga session with certified instructor. Breakfast, checkout, depart refreshed."
-          }
-        ]
-      },
-      "trans": {
-        "label": "GETTING THERE",
-        "title": "Base Camp Access",
-        "desc": "Rishikesh is well-connected from Delhi by road.",
-        "transport": [
-          {
-            "icon": "🚐",
-            "name": "Shared Cab from Delhi",
-            "detail": "Pickup from Delhi – 6 hour drive"
-          },
-          {
-            "icon": "🏕️",
-            "name": "River Camp Stay",
-            "detail": "Tents by the Ganges, included"
-          },
-          {
-            "icon": "🚣",
-            "name": "Rafting Gear",
-            "detail": "Life jackets, helmets, paddles provided"
-          }
-        ]
-      },
-      "pricing": {
-        "label": "ADVENTURE PACKAGE",
-        "headline": "4-Day Full Adventure",
-        "amount": "₹9,500",
-        "per": "per person",
-        "pitch": "All adventures, camp stay, and meals by the river included.",
-        "includes": [
-          "3 nights river camp",
-          "All meals",
-          "River rafting (26 km)",
-          "Bungee jump",
-          "Yoga sessions",
-          "Ganga aarti"
-        ]
-      },
-      "squad": {
-        "badge": "BATCH SIZE",
-        "title": "Adventure Squads",
-        "desc": "Groups of 6–20. Solo travellers welcome – join a batch!",
-        "total": 20,
-        "in": 15,
-        "faces": [
-          "🧑",
-          "👨",
-          "👩",
-          "👱",
-          "🧑",
-          "👩",
-          "👨",
-          "🧑",
-          "👱",
-          "👩",
-          "🧑",
-          "👨",
-          "👩",
-          "👱",
-          "🧑"
-        ]
-      },
-      "cta": {
-        "text": "Join This Adventure",
-        "url": "#",
-        "sub": "Weekend batches every Friday"
-      },
-      "footer": {
-        "tagline": "Scare yourself a little. Breathe a lot.",
-        "chips": [
-          "Adventure",
-          "4 Days",
-          "Rishikesh",
-          "₹9.5K"
-        ]
-      },
-      "departure_locations": [
-        {
-          "name": "Rishikesh",
-          "lat": 30.0869,
-          "lng": 78.2676
-        },
-        {
-          "name": "Delhi",
-          "lat": 28.6139,
-          "lng": 77.209
-        }
-      ],
-      "provider_name": "Sample Tour and Travel",
-      "provider_code": "102"
-    },
-    {
   "id": 9,
   "dates": "On Request",
   "title": "Manali Kasol Rohtang / Sissu Atal Tunnel",
@@ -1384,8 +8,8 @@
   "category": "hill_station",
   "category_display": "Hill Station",
   "duration": "8 Days / 7 Nights",
-  "price": 0,
-  "discount": 0,
+  "price": 12000,
+  "discount": 500,
   "currency": "₹",
   "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=500&h=200&fit=crop",
   "highlights": [
@@ -1831,6 +455,163 @@
   ],
   "provider_name": "TM Tour and Travel",
   "provider_code": "105"
+},
+{
+  "id": 12,
+  "dates": "26–28 June 2026",
+  "title": "Bastar Monsoon Expedition 2026",
+  "location": "Raipur → Bastar → Raipur",
+  "category": "weekend_trip",
+  "category_display": "Weekend Trip",
+  "duration": "3 Days / 2 Nights",
+  "price": 9500,
+  "discount": 0,
+  "currency": "₹",
+  "image": "https://images.unsplash.com/photo-1673462107499-97848ff888b9?q=80&w=736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "highlights": [
+    "Keshkal Ghati & Tatamari View Point",
+    "Kanger Valley National Park",
+    "Tirthgarh Waterfall",
+    "Chitrakote – Niagara of India"
+  ],
+  "partner_url": "#",
+  "partner_name": "IC Tour and Travel",
+  "whatsapp_number": "",
+  "hero_title": "Bastar Monsoon Expedition 2026",
+  "hero_sub": "Where Nature Meets Heritage",
+  "hero_meta": "3 Days · 2 Nights · 26–28 June 2026 · Raipur to Raipur · From ₹9,500",
+  "hero_img": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1400&fit=crop",
+  "hero_tags": [
+    "Chitrakote Falls",
+    "Kanger Valley",
+    "Tribal Heritage",
+    "Monsoon Magic"
+  ],
+  "stars": 4.8,
+  "vibe": {
+    "label": "THE VIBE",
+    "title": "Untouched Beauty,",
+    "title_em": "Magical Monsoon",
+    "desc": "Discover the breathtaking landscapes, majestic waterfalls, ancient temples, tribal art, and rich cultural heritage of Bastar on this carefully curated 3 Days / 2 Nights journey. Designed for solo travelers, couples, families, and groups — this immersive experience takes you through some of Chhattisgarh's most iconic destinations.",
+    "items": [
+      { "icon": "🌊", "text": "Chitrakote – India's Niagara" },
+      { "icon": "🌿", "text": "Kanger Valley National Park" },
+      { "icon": "🛕", "text": "Maa Danteshwari Temple" },
+      { "icon": "🎨", "text": "Dhokra Art & Tribal Culture" }
+    ]
+  },
+  "itin": {
+    "label": "THE JOURNEY",
+    "title": "3 Day Itinerary",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Raipur – Keshkal – Kondagaon",
+        "desc": "07:30 AM departure from Raipur. Breakfast en-route. Visit Keshkal Ghati, Tatamari View Point, Ancient Shiv Temple, Kuyemari Waterfall, Dhokra Art Centre and Shabari Emporium. Lunch. Overnight stay at Kondagaon."
+      },
+      {
+        "day": "Day 2",
+        "title": "Kondagaon – Kanger Valley – Dantewada",
+        "desc": "07:30 AM departure for Dantewada. Breakfast. Visit Kanger Valley National Park, Tirthgarh Waterfall. Lunch. Visit Maa Danteshwari Temple. Overnight stay at Dantewada."
+      },
+      {
+        "day": "Day 3",
+        "title": "Dantewada – Barsur – Chitrakote – Raipur",
+        "desc": "Breakfast. Barsur Heritage Walk and Ancient Temples of Barsur. Visit Mendri Ghumar Waterfall & View Point. Chitrakote Waterfall – the Niagara of India. Lunch. Departure for Raipur. 09:00 PM arrival at Raipur."
+      }
+    ]
+  },
+  "trans": {
+    "label": "HOW WE TRAVEL",
+    "title": "AC Transport – Raipur to Raipur",
+    "desc": "Fully air-conditioned vehicle from Raipur and back. All sightseeing transfers included.",
+    "transport": [
+      { "icon": "🚌", "name": "AC Transport", "detail": "Raipur to Raipur, all sightseeing included" },
+      { "icon": "🏨", "name": "Hotel Stay", "detail": "2 nights on sharing basis" },
+      { "icon": "🍽️", "name": "Meals", "detail": "3 Breakfasts, 3 Lunches, 2 Dinners" }
+    ]
+  },
+  "pricing": {
+    "label": "PACKAGE COST",
+    "headline": "From ₹9,500 per person",
+    "amount": "₹9,500",
+    "per": "per person (Triple Sharing)",
+    "pitch": "Raipur to Raipur all-inclusive. Couple package also available.",
+    "includes": [
+      "Hotel accommodation (sharing basis)",
+      "3 Breakfasts, 3 Lunches, 2 Dinners",
+      "AC transport (Raipur to Raipur) + sightseeing",
+      "Storytelling experience",
+      "Professional tour guide",
+      "Entry fees, toll & parking"
+    ],
+    "excludes": [
+      "Water bottles",
+      "Safari in Kanger Valley",
+      "Boating / Kayaking / Bamboo Rafting",
+      "Insurance",
+      "Tips & gratuities",
+      "Personal purchases",
+      "Any cost not mentioned above"
+    ],
+    "variants": [
+      { "label": "Triple Sharing", "price": 9500 },
+      { "label": "Couple Package", "price": 9999 }
+    ]
+  },
+  "squad": {
+    "badge": "GROUP TOUR",
+    "title": "Solo, Couples, Families & Groups",
+    "desc": "Suitable for solo travelers, couples, families, groups and corporate teams.",
+    "total": 30,
+    "in": 20,
+    "faces": [
+      "👩", "🧑", "👨", "👩", "🧑",
+      "👱", "👩", "🧑", "👨", "👩",
+      "🧑", "👨", "👱", "👩", "🧑",
+      "👨", "👩", "👱", "🧑", "👨"
+    ]
+  },
+  "tour_highlights": [
+    "Keshkal Ghati",
+    "Tatamari View Point",
+    "Ancient Shiv Temple",
+    "Kuyemari Waterfall",
+    "Dhokra Art Centre",
+    "Shabari Emporium",
+    "Kanger Valley National Park",
+    "Tirthgarh Waterfall",
+    "Maa Danteshwari Temple",
+    "Barsur Heritage Walk",
+    "Mendri Ghumar Waterfall",
+    "Chitrakote Waterfall"
+  ],
+  "cta": {
+    "text": "Book Your Spot",
+    "url": "#",
+    "sub": "26–28 June 2026 · Triple ₹9,500 · Couple ₹9,999 · Limited Seats"
+  },
+  "footer": {
+    "tagline": "Discover the untouched beauty of Bastar in the magical monsoon season.",
+    "chips": [
+      "Weekend Trip",
+      "3 Days",
+      "Bastar",
+      "₹9,500"
+    ]
+  },
+  "departure_locations": [
+    { "name": "Raipur", "lat": 21.2514, "lng": 81.6296 },
+    { "name": "Keshkal Ghati", "lat": 19.9833, "lng": 81.5833 },
+    { "name": "Kondagaon", "lat": 19.5970, "lng": 81.6633 },
+    { "name": "Kanger Valley National Park", "lat": 19.1167, "lng": 81.9833 },
+    { "name": "Tirthgarh Waterfall", "lat": 19.3167, "lng": 81.7667 },
+    { "name": "Dantewada", "lat": 18.8953, "lng": 81.3483 },
+    { "name": "Barsur", "lat": 18.7167, "lng": 81.4833 },
+    { "name": "Chitrakote Falls", "lat": 19.2167, "lng": 81.7000 }
+  ],
+  "provider_name": "IC Tour and Travel",
+  "provider_code": "106"
 }
   ]
 }
